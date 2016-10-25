@@ -1,6 +1,6 @@
 {
   "name": "wit-module",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "It is a customized module for wit.ai API.",
   "main": "index.js",
   "scripts": {
