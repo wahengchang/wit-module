@@ -32,8 +32,9 @@ witModule.converse('something to say?',_sessionId ).then(function(result){
 ## Document
 
 ### converse (_str, _sessionId, _postData)
-return a promise with response body
-
+ return a promise with response body
+[tutorial](http://bananajs.blogspot.tw/2016/10/wit-ai-converse_25.html)
+[offical doc](https://wit.ai/docs/recipes#converse-link)
 ```js
 
 WIT.prototype.converse (_str, _sessionId, _postData)
