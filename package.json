@@ -1,0 +1,33 @@
+{
+  "name": "wit-module",
+  "version": "1.0.0",
+  "description": "It is a customized module for wit.ai API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Chang <wahengchang@gmail.com>",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "lodash": "^4.16.4",
+    "should": "^11.1.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahengchang/wit-module.git"
+  },
+  "keywords": [
+    "wit.ai",
+    "api",
+    "module",
+    "converse"
+  ],
+  "bugs": {
+    "url": "https://github.com/wahengchang/wit-module/issues"
+  },
+  "homepage": "https://github.com/wahengchang/wit-module#readme"
+}
